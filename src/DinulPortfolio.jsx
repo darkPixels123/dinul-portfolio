@@ -180,7 +180,7 @@ const MARQUEE = [
   "DaVinci Resolve",
 ];
 
-import myImage from "./assets/Profile Images/myImage.jpg";
+import myimage from "./assets/Profile Images/myImage.jpg";
 
 const reducedMotion = () =>
   typeof window !== "undefined" &&
@@ -742,7 +742,7 @@ export default function DinulPortfolio() {
         <div className="about-grid">
           <div className="portrait reveal">
             <div className="frame f-port" data-plx="frame">
-              <img src={myImage} alt="Dinul" className="portrait-img" />
+              <img src={myimage} alt="Dinul" className="portrait-img" />
             </div>
           </div>
           <div className="about-copy reveal">
@@ -831,9 +831,9 @@ export default function DinulPortfolio() {
         <div className="wrap foot-in">
           <span>© {new Date().getFullYear()} Dinul — Video Editor</span>
           <span className="foot-links">
-            <a href="#">Instagram</a>
-            <a href="#">YouTube</a>
-            <a href="#">X / Twitter</a>
+            <a href="https://www.instagram.com/dinul.visuals/">Instagram</a>
+            <a href="https://www.youtube.com/@dinulvisuals">YouTube</a>
+            <a href="https://x.com/DinulP39785">X / Twitter</a>
           </span>
           <span ref={footTcRef}>REC · 00:00:00:00</span>
         </div>
