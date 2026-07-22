@@ -148,9 +148,9 @@ const TESTIMONIALS = [
   {
     tc: "00:02:14:06",
     quote:
-      "Dinul restructured a 40-minute interview into a 12-minute cut that doubled our average watch time. He edits like he can see the retention graph.",
-    name: "Sample Client",
-    role: "Creator · 250K subscribers",
+      "Dinul worked with us at Chakra Digital on a SaaS explainer video, and the final output came out really well. He was easy to communicate with, open to discussing ideas, and understood feedback quickly. He also has a good eye for motion and delivered the work on time. I highly recommend him to anyone looking for a reliable motion designer.",
+    name: "Mineth Banula",
+    role: "Cofounder at Chakra visuals",
   },
   {
     tc: "00:00:41:18",
