@@ -48,6 +48,16 @@ const WORK = [
     video: "https://www.youtube.com/shorts/zgnP3dAQXms",
     thumb: null,
   },
+   {
+    ratio: "r916",
+    frame: "f3",
+    span: "tall",
+    tc: "9:16 · 00:38",
+    title: "Hook-driven reel",
+    tag: "Short-form",
+    video: "https://youtube.com/shorts/u5-UX3XRJNI",
+    thumb: null,
+  },
   {
     ratio: "r916",
     frame: "f4",
